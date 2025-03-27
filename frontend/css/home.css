@@ -1,0 +1,31 @@
+/* Main Content */
+:root {
+    --base-clr: #112a1a;
+    --line-clr: #344a34;
+    --hover-clr: #1d3a2a;
+    --text-clr: #e6f6e6;
+    --accent-clr: #63ff5e;          
+    --secondary-text-clr: #b0c1b3;  
+}
+
+
+main {
+    padding: min(30px, 7%);
+    transition: 300ms ease-in-out;
+
+}
+
+main p {
+    color: var(--secondary-text-clr);
+    margin-top: 5px;
+    margin-bottom: 15px;
+}
+
+.container {
+    border: 1px solid var(--line-clr);
+    border-radius: 1em;
+    margin-bottom: 20px;
+    padding: min(3em, 15%);
+
+    h2, p {margin-top: 1em;}
+}
