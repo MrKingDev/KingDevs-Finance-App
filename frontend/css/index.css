@@ -91,6 +91,10 @@ body {
     flex-grow: 1;
 }
 
+#sidebar a {
+    transition: 500ms ease;
+}
+
 #sidebar a:hover {
     background-color: var(--hover-clr);
 }

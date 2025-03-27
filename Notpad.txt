@@ -5,3 +5,24 @@ Spending Tracker
 Income Tracker
 Subscriptions Tracker
 Money Manager
+
+Home:
+    - Showcase of all 
+    - Quick little about me
+
+Spending Tracker:
+    - Track your spending
+    - Has a graph 
+
+Income Tracker:
+    - Track your income
+    - Has a graph 
+
+Subscriptions Tracker:
+    - Track your Subscriptions
+    - See's which one you hav to pay in the future 
+
+Money Manager:
+    - Separates your money based the split
+    Example: 20-30-50 rule 
+    - Be able to add your percentage split 

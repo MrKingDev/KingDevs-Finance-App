@@ -11,8 +11,6 @@
 
 main {
     padding: min(30px, 7%);
-    transition: 300ms ease-in-out;
-
 }
 
 main p {
